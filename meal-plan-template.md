@@ -14,6 +14,8 @@
 **🥣 Breakfast:** Overnight Oats with Berries  
 **Macros:** Protein 8g | Carbs 45g | Fat 12g | **Cost:** 12 kr | **Prep:** 5 min (night before)
 
+- Mix 50g oats + 150ml milk + 1 tbsp honey + berries in jar, refrigerate overnight
+
 **🥗 Lunch:** Greek Salad (leftover from Sunday prep)  
 **Macros:** Protein 15g | Carbs 8g | Fat 18g | **Cost:** 18 kr | **Prep:** 2 min
 
@@ -72,6 +74,8 @@
 **🥞 Breakfast:** Avocado Toast  
 **Macros:** Protein 8g | Carbs 28g | Fat 18g | **Cost:** 16 kr | **Prep:** 5 min
 
+- Toast 2 slices knäckebröd, mash 1/2 avocado with lime, salt, spread on toast
+
 **🥢 Lunch:** Leftover Tofu Stir-fry  
 **Macros:** Protein 22g | Carbs 12g | Fat 16g | **Cost:** 0 kr | **Prep:** 3 min (reheat)
 
@@ -108,8 +112,20 @@
 **🥗 Dinner:** Greek Halloumi Salad  
 **Macros:** Protein 26g | Carbs 8g | Fat 32g | **Cost:** 48 kr | **Prep:** 15 min
 
-- 125g Halloumi, 150g Tomater, 100g Gurka, Oliver, herbs
-- Cook: Pan-fry halloumi, combine fresh ingredients, dress
+**Ingredients:**
+
+- 125g Halloumi (sliced), 150g Tomater Körsbär (halved), 100g Gurka (diced), 50g Oliver Kalamata, 2 tbsp olive oil, 1 lemon (juiced), 1 tsp oregano, salt, pepper
+
+**How to Cook:**
+
+1. Slice halloumi into 1cm thick pieces
+2. Heat dry pan over medium-high heat (no oil needed)
+3. Cook halloumi 2-3 min each side until golden and slightly crispy
+4. Meanwhile, combine tomatoes, cucumber, and olives in large bowl
+5. Whisk together olive oil, lemon juice, oregano, salt, and pepper
+6. Add warm halloumi to salad bowl
+7. Pour dressing over salad, toss gently to combine
+8. Let sit 5 min for flavors to meld before serving
 
 **🍇 Snack:** Mixed Nuts & Dried Fruit  
 **Macros:** Protein 6g | Carbs 20g | Fat 14g | **Cost:** 15 kr
@@ -119,14 +135,30 @@
 **🍳 Breakfast:** Scrambled Eggs with Herbs  
 **Macros:** Protein 18g | Carbs 3g | Fat 16g | **Cost:** 12 kr | **Prep:** 8 min
 
+- Whisk 3 eggs with salt, cook in butter over low heat, stir gently, add fresh herbs
+
 **🥗 Lunch:** Quick Salad with Leftover Halloumi  
 **Macros:** Protein 12g | Carbs 8g | Fat 14g | **Cost:** 15 kr | **Prep:** 5 min
 
 **🍕 Dinner:** Margherita Pizza (Weekend Prep Start)  
 **Macros:** Protein 16g | Carbs 58g | Fat 18g | **Cost:** 35 kr | **Prep:** 45 min
 
-- 500g Pizzamix, 150g Mozzarella, Tomater, Basilika
-- Cook: Make dough, rise, top, bake at high heat
+**Ingredients:**
+
+- 500g Pizzamix, 150g Mozzarella (torn), 200g Krossade Tomater, fresh Basilika leaves, 2 tbsp olive oil, salt, pepper
+
+**How to Cook:**
+
+1. Prepare pizza dough according to package instructions
+2. Let dough rise in oiled bowl, covered, 30 min until doubled
+3. Preheat oven to 250°C (or highest setting) with pizza stone if available
+4. Season crushed tomatoes with salt, pepper, and 1 tbsp olive oil
+5. Roll dough on floured surface to fit your baking tray
+6. Spread thin layer of seasoned tomatoes, leaving 2cm border
+7. Tear mozzarella into chunks, distribute evenly over sauce
+8. Drizzle with remaining olive oil, season with salt
+9. Bake 12-15 min until crust is golden and cheese bubbles
+10. Remove from oven, immediately top with fresh basil leaves
 
 **🍿 Snack:** Popcorn  
 **Macros:** Protein 3g | Carbs 25g | Fat 4g | **Cost:** 6 kr
@@ -136,14 +168,29 @@
 **🥐 Breakfast:** Weekend Pancakes  
 **Macros:** Protein 12g | Carbs 45g | Fat 8g | **Cost:** 16 kr | **Prep:** 20 min
 
+- Mix 100g flour + 1 egg + 150ml milk + 1 tsp sugar, cook in buttered pan until golden
+
 **🍕 Lunch:** Leftover Pizza  
 **Macros:** Protein 16g | Carbs 58g | Fat 18g | **Cost:** 0 kr | **Prep:** 2 min
 
 **🍛 Dinner:** Vegetable Curry (batch cook for Sunday lunch)  
 **Macros:** Protein 12g | Carbs 54g | Fat 14g | **Cost:** 32 kr | **Prep:** 30 min
 
-- Basmati rice, mixed vegetables, coconut milk, curry paste
-- Cook: Build flavors, simmer vegetables in coconut milk
+**Ingredients:**
+
+- 300g Basmati rice, 400g mixed vegetables (cauliflower, peas), 400ml Kokosmjölk, 2 tbsp Curry Paste, 1 Lök (diced), 2 garlic cloves, 1 tbsp oil
+
+**How to Cook:**
+
+1. Rinse basmati rice until water runs clear, cook according to package
+2. Heat oil in large pot over medium heat
+3. Add diced onion, cook 5 min until softened
+4. Add minced garlic and curry paste, stir-fry 1-2 min until fragrant
+5. Add hard vegetables (cauliflower), cook 3-4 min
+6. Pour in coconut milk, bring to gentle simmer
+7. Add softer vegetables (peas), simmer 10-15 min until tender
+8. Season with salt to taste
+9. Serve over fluffy basmati rice, garnish with fresh herbs if available
 
 **📦 Weekend Prep Tasks:**
 
@@ -163,8 +210,22 @@
 **🌶️ Dinner:** Stuffed Bell Peppers  
 **Macros:** Protein 14g | Carbs 42g | Fat 12g | **Cost:** 36 kr | **Prep:** 25 min (using prepped quinoa)
 
-- Bell peppers, pre-cooked quinoa, mushrooms, cheese
-- Cook: Stuff peppers with quinoa mix, bake until tender
+**Ingredients:**
+
+- 4 large Paprika (tops cut, seeded), 200g cooked quinoa, 200g mushrooms (diced), 100g cheese (grated), 1 Lök (diced), 2 tbsp olive oil, herbs, salt, pepper
+
+**How to Cook:**
+
+1. Preheat oven to 180°C
+2. Cut tops off peppers, remove seeds and membranes
+3. If peppers don't stand upright, trim small slice off bottom
+4. Heat 1 tbsp oil in pan, sauté diced onions 5 min until soft
+5. Add diced mushrooms, cook 5-6 min until moisture evaporates
+6. Mix sautéed vegetables with cooked quinoa, half the cheese, herbs
+7. Season filling with salt and pepper to taste
+8. Brush peppers with remaining oil, stuff with quinoa mixture
+9. Top with remaining cheese, place in baking dish
+10. Bake 25-30 min until peppers are tender and cheese is golden
 
 **🍊 Snack:** Fresh Fruit  
 **Macros:** Protein 1g | Carbs 22g | Fat 0g | **Cost:** 8 kr
