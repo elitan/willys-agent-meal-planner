@@ -40,20 +40,6 @@ Total cost: 580 kr (under budget!)
 Shopping list organized by store sections attached."
 ```
 
-## 📁 Project Structure
-
-```
-willys-agent-meal-planner/
-├── README.md                  # Project overview and setup
-├── AGENT_CONCEPT.md          # Detailed agent capabilities and workflow
-├── WILLYS_API.md             # Complete Willys API documentation
-├── meal-plan-template.md     # Example output format
-└── src/                      # Implementation (coming soon)
-    ├── willys_client.py      # Willys API integration
-    ├── meal_planner.py       # Core planning logic
-    └── templates/            # Output templates
-```
-
 ## 🔗 Documentation
 
 - **[Agent Concept](AGENT_CONCEPT.md)** - Detailed explanation of agent capabilities and workflows

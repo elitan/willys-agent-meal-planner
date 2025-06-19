@@ -49,8 +49,20 @@
 **🥢 Dinner:** Tofu Vegetable Stir-fry (make extra for Wednesday lunch)  
 **Macros:** Protein 22g | Carbs 12g | Fat 16g | **Cost:** 38 kr | **Prep:** 20 min
 
-- 250g Tofu, 200g Broccoli, 150g Morötter, Sojasås, garlic, ginger
-- Cook: Pan-fry tofu, stir-fry vegetables, combine with sauce
+**Ingredients:**
+
+- 250g Tofu (pressed & cubed), 200g Broccoli florets, 150g Morötter (julienned), 3 tbsp Sojasås, 2 garlic cloves, 1 tbsp fresh ginger, 2 tbsp oil
+
+**How to Cook:**
+
+1. Press tofu between paper towels, cut into 2cm cubes
+2. Heat 1 tbsp oil in wok or large pan over high heat
+3. Add tofu cubes, don't move for 3-4 min until golden. Flip and cook 2 min more
+4. Remove tofu, set aside. Add remaining oil to pan
+5. Add broccoli and carrots, stir-fry 3-4 min until crisp-tender
+6. Add minced garlic and ginger, stir-fry 30 seconds until fragrant
+7. Return tofu to pan, add soy sauce, toss everything together 1 min
+8. Serve immediately while vegetables are still crisp
 
 **🥨 Snack:** Hummus with Carrots  
 **Macros:** Protein 6g | Carbs 12g | Fat 6g | **Cost:** 10 kr
@@ -66,8 +78,21 @@
 **🍲 Dinner:** Red Lentil Soup (make large batch for Thursday lunch)  
 **Macros:** Protein 24g | Carbs 48g | Fat 8g | **Cost:** 28 kr | **Prep:** 35 min
 
-- 300g Röda Linser, 1.5L Buljong, 2 Lök, spices
-- Cook: Sauté onions, add lentils & spices, simmer in broth
+**Ingredients:**
+
+- 300g Röda Linser, 1.5L Vegetabilisk Buljong, 2 large Lök (diced), 2 tbsp olive oil, 1 tsp cumin, 1 tsp paprika, 1 bay leaf, salt, pepper
+
+**How to Cook:**
+
+1. Rinse lentils in cold water until water runs clear
+2. Heat oil in large pot over medium heat
+3. Add diced onions, cook 5-6 min until soft and translucent
+4. Add cumin and paprika, stir for 1 min until fragrant
+5. Add lentils, bay leaf, and broth. Bring to boil
+6. Reduce heat to low, cover partially, simmer 25-30 min
+7. Stir occasionally until lentils break down and soup thickens
+8. Remove bay leaf, season with salt and pepper to taste
+9. Serve with crusty bread or knäckebröd
 
 **🧀 Snack:** Cheese & Crackers  
 **Macros:** Protein 8g | Carbs 15g | Fat 12g | **Cost:** 12 kr
